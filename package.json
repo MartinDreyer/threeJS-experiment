@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "http-server": "^14.1.1",
-    "parcel": "^2.8.3",
     "three": "^0.149.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
   }
 }
